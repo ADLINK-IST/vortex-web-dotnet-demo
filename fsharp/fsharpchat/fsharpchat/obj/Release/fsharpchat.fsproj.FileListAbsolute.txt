@@ -1,0 +1,12 @@
+C:\xlabs\fsharp\fsharpchat\fsharpchat\bin\Release\fsharpchat.exe.config
+C:\xlabs\fsharp\fsharpchat\fsharpchat\bin\Release\fsharpchat.XML
+C:\xlabs\fsharp\fsharpchat\fsharpchat\bin\Release\fsharpchat.exe
+C:\xlabs\fsharp\fsharpchat\fsharpchat\bin\Release\fsharpchat.pdb
+C:\xlabs\fsharp\fsharpchat\fsharpchat\bin\Release\Eto.dll
+C:\xlabs\fsharp\fsharpchat\fsharpchat\bin\Release\Eto.WinForms.dll
+C:\xlabs\fsharp\fsharpchat\fsharpchat\bin\Release\Eto.Wpf.dll
+C:\xlabs\fsharp\fsharpchat\fsharpchat\bin\Release\FSharp.Core.dll
+C:\xlabs\fsharp\fsharpchat\fsharpchat\bin\Release\Eto.xml
+C:\xlabs\fsharp\fsharpchat\fsharpchat\bin\Release\FSharp.Core.xml
+C:\xlabs\fsharp\fsharpchat\fsharpchat\obj\Release\fsharpchat.exe
+C:\xlabs\fsharp\fsharpchat\fsharpchat\obj\Release\fsharpchat.pdb
